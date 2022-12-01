@@ -1,431 +1,541 @@
-Saving new input (at run 1): input #0 of size 36; reason = +count +cov
+Saving new input (at run 1): input #0 of size 48; reason = +count +cov
 Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000000 random +count +cov
-Saving new input (at run 2): input #1 of size 12; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000001 src:000000,havoc:3 +count +cov
-Saving new input (at run 3): input #2 of size 36; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000002 src:000000,havoc:2 +count
-Saving new input (at run 5): input #3 of size 64; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000003 src:000000,havoc:32 +count
-Saving new input (at run 8): input #4 of size 76; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000004 src:000000,havoc:1 +count
-Saving new input (at run 13): input #5 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000005 src:000000,havoc:1 +count +cov
-Saving new input (at run 17): input #6 of size 12; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000006 src:000000,havoc:9 +count
-Saving new input (at run 22): input #7 of size 24; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000007 src:000000,havoc:16 +count
-Saving new input (at run 25): input #8 of size 136; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000008 src:000000,havoc:11 +count
-Saving new input (at run 26): input #9 of size 16; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000009 src:000000,havoc:6 +count
-Saving new input (at run 30): input #10 of size 8; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000010 src:000000,havoc:11 +count +cov +valid
-Saving new input (at run 52): input #11 of size 8; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000011 src:000000,havoc:19 +count
-Saving new input (at run 82): input #12 of size 12; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000012 src:000000,havoc:4 +count +cov +valid
-Saving new input (at run 155): input #13 of size 152; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000013 src:000000,havoc:10 +count
-Saving new input (at run 182): input #14 of size 208; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000014 src:000000,havoc:14 +count
-Saving new input (at run 419): input #15 of size 36; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000015 src:000005,havoc:3 +count
-Saving new input (at run 1920): input #16 of size 16; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000016 src:000012,havoc:1 +count +cov +valid
-Saving new input (at run 2532): input #17 of size 16; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000017 src:000016,havoc:2 +count
+Saving new input (at run 2): input #1 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000001 src:000000,havoc:4 +count +cov
+Saving new input (at run 3): input #2 of size 28; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000002 src:000000,havoc:7 +count
+Saving new input (at run 17): input #3 of size 20; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000003 src:000000,havoc:19 +count
+Saving new input (at run 18): input #4 of size 16; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000004 src:000000,havoc:8 +count
+Saving new input (at run 27): input #5 of size 80; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000005 src:000000,havoc:8 +count
+Saving new input (at run 31): input #6 of size 8; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000006 src:000000,havoc:7 +count +cov +valid
+Saving new input (at run 41): input #7 of size 12; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000007 src:000000,havoc:30 +count
+Saving new input (at run 45): input #8 of size 108; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000008 src:000000,havoc:27 +count
+Saving new input (at run 59): input #9 of size 12; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000009 src:000000,havoc:16 +count
+Saving new input (at run 132): input #10 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000010 src:000000,havoc:5 +count +cov
+Saving new input (at run 175): input #11 of size 156; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000011 src:000000,havoc:13 +count
+Saving new input (at run 348): input #12 of size 192; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000012 src:000001,havoc:7 +count
+Saving new input (at run 430): input #13 of size 8; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000013 src:000006,havoc:1 +count
+Saving new input (at run 445): input #14 of size 248; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000014 src:000006,havoc:6 +count
+Saving new input (at run 467): input #15 of size 24; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000015 src:000006,havoc:9 +count
+Saving new input (at run 585): input #16 of size 88; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000016 src:000006,havoc:5 +count +cov
+Saving new input (at run 1120): input #17 of size 12; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000017 src:000006,havoc:2 +count +cov +valid
+Saving new input (at run 1208): input #18 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000018 src:000010,havoc:9 +count +cov
+Saving new input (at run 1377): input #19 of size 272; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000019 src:000010,havoc:32 +count
+Saving new input (at run 1442): input #20 of size 192; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000020 src:000012,havoc:19 +count
+Saving new input (at run 1711): input #21 of size 88; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000021 src:000016,havoc:4 +count +cov
+Saving new input (at run 1759): input #22 of size 36; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000022 src:000016,havoc:11 +count +cov
+Saving new input (at run 2730): input #23 of size 48; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000023 src:000018,havoc:2 +count
+Saving new input (at run 2792): input #24 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000024 src:000018,havoc:8 +count +cov
+Saving new input (at run 2845): input #25 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000025 src:000018,havoc:3 +count +cov
+Saving new input (at run 2974): input #26 of size 272; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000026 src:000019,havoc:12 +count
+Saving new input (at run 2978): input #27 of size 272; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000027 src:000019,havoc:1 +count
+Saving new input (at run 3133): input #28 of size 88; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000028 src:000021,havoc:7 +count +cov
+Saving new input (at run 3346): input #29 of size 56; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000029 src:000022,havoc:8 +count
+Saving new input (at run 3581): input #30 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000030 src:000024,havoc:5 +count +cov
+Saving new input (at run 3585): input #31 of size 28; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000031 src:000024,havoc:8 +count
+Saving new input (at run 3662): input #32 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000032 src:000024,havoc:8 +count +cov
+Saving new input (at run 3679): input #33 of size 12; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000033 src:000024,havoc:22 +count
+Saving new input (at run 4056): input #34 of size 272; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000034 src:000026,havoc:8 +count
+Saving new input (at run 4177): input #35 of size 88; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000035 src:000028,havoc:11 +count +cov
+Saving new input (at run 4391): input #36 of size 160; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000036 src:000030,havoc:4 +count +cov
+Saving new input (at run 4692): input #37 of size 48; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000037 src:000032,havoc:3 +count
+Saving new input (at run 4693): input #38 of size 12; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000038 src:000032,havoc:12 +count +cov +valid
+Saving new input (at run 5203): input #39 of size 16; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000039 src:000037,havoc:2 +count +cov +valid
+Saving new input (at run 6240): input #40 of size 16; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000040 src:000039,havoc:5 +count
+Saving new input (at run 6765): input #41 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000041 src:000039,havoc:12 +count +cov
 
 # Cycle 1 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
 Input 16 is responsible for 4 branches
-Total 3626 branches covered
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 21 is responsible for 3 branches
+Input 22 is responsible for 1 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
+Input 28 is responsible for 2 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
+Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Total 3671 branches covered
 
 
 
 
-Saving new input (at run 3365): input #18 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000018 src:000000,havoc:8 +count +cov
-Saving new input (at run 4115): input #19 of size 224; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000019 src:000010,havoc:12 +count
-Saving new input (at run 4481): input #20 of size 308; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000020 src:000010,havoc:1 +count
-Saving new input (at run 6730): input #21 of size 36; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000021 src:000018,havoc:7 +count
-Saving new input (at run 6776): input #22 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000022 src:000018,havoc:4 +count +cov
-Saving new input (at run 6798): input #23 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000023 src:000018,havoc:5 +count +cov
-Saving new input (at run 6902): input #24 of size 64; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000024 src:000022,havoc:5 +count +cov
-Saving new input (at run 7289): input #25 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000025 src:000023,havoc:16 +count +cov
-Saving new input (at run 7333): input #26 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000026 src:000023,havoc:6 +count +cov
-Saving new input (at run 7884): input #27 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000027 src:000025,havoc:2 +count +cov
+Saving new input (at run 8781): input #42 of size 88; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000042 src:000016,havoc:9 +count +cov
+Saving new input (at run 10786): input #43 of size 48; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000043 src:000024,havoc:5 +count +cov
+Saving new input (at run 12792): input #44 of size 20; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000044 src:000038,havoc:4 +count +cov
+Saving new input (at run 14650): input #45 of size 12; reason = +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000045 src:000043,havoc:15 +valid
+Saving new input (at run 14745): input #46 of size 12; reason = +count +cov
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000046 src:000043,havoc:2 +count +cov
 
 # Cycle 2 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 3 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
-Total 3640 branches covered
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 3 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 21 is responsible for 2 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
+Input 28 is responsible for 2 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
+Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Total 3676 branches covered
 
 
 
 
-Saving new input (at run 10949): input #28 of size 20; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000028 src:000016,havoc:1 +count +cov +valid
-Saving new input (at run 11989): input #29 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000029 src:000018,havoc:12 +count +cov
-Saving new input (at run 12460): input #30 of size 52; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000030 src:000023,havoc:11 +count
-Saving new input (at run 12496): input #31 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000031 src:000023,havoc:6 +count +cov
-Saving new input (at run 12620): input #32 of size 64; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000032 src:000024,havoc:10 +count +cov
-Saving new input (at run 13976): input #33 of size 36; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000033 src:000028,havoc:1 +count
-Saving new input (at run 14815): input #34 of size 36; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000034 src:000031,havoc:2 +count
+Saving new input (at run 19036): input #47 of size 48; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000047 src:000024,havoc:10 +count
 
 # Cycle 3 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 3 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 3 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 21 is responsible for 2 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 3 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Total 3648 branches covered
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
+Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Total 3676 branches covered
 
 
 
 
-Saving new input (at run 18764): input #35 of size 60; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000035 src:000018,havoc:10 +count +cov
-Saving new input (at run 20538): input #36 of size 340; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000036 src:000028,havoc:8 +count
-Saving new input (at run 21690): input #37 of size 52; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000037 src:000030,havoc:7 +count
-Saving new input (at run 22275): input #38 of size 12; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000038 src:000035,havoc:22 +count +cov +valid
-Saving new input (at run 23138): input #39 of size 12; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000039 src:000038,havoc:2 +count
+Saving new input (at run 27990): input #48 of size 88; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000048 src:000028,havoc:15 +count
+Saving new input (at run 29060): input #49 of size 12; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000049 src:000038,havoc:1 +count +cov +valid
+Saving new input (at run 30188): input #50 of size 20; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000050 src:000039,havoc:2 +count +cov +valid
+Saving new input (at run 32424): input #51 of size 16; reason = +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000051 src:000045,havoc:1 +valid
+Saving new input (at run 32678): input #52 of size 28; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000052 src:000047,havoc:3 +count
+Saving new input (at run 34871): input #53 of size 16; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000053 src:000051,havoc:1 +count +cov +valid
+Saving new input (at run 35463): input #54 of size 12; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000054 src:000053,havoc:2 +count +cov +valid
 
 # Cycle 4 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 3 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
-Total 3672 branches covered
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Total 3753 branches covered
 
 
 
 
-Saving new input (at run 24579): input #40 of size 376; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000040 src:000010,havoc:16 +count
-Saving new input (at run 30160): input #41 of size 60; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000041 src:000035,havoc:4 +count
-Saving new input (at run 30386): input #42 of size 20; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000042 src:000038,havoc:5 +count
+Saving new input (at run 45170): input #55 of size 12; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000055 src:000049,havoc:1 +count
+Saving new input (at run 46899): input #56 of size 372; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000056 src:000050,havoc:10 +count
+Saving new input (at run 48161): input #57 of size 16; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000057 src:000053,havoc:2 +count +cov +valid
+Saving new input (at run 49617): input #58 of size 16; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000058 src:000057,havoc:1 +count +cov +valid
 
 # Cycle 5 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 3 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
-Total 3672 branches covered
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Total 3802 branches covered
 
 
 
 
+Saving new input (at run 58000): input #59 of size 48; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000059 src:000043,havoc:3 +count
+Saving new input (at run 62615): input #60 of size 16; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000060 src:000053,havoc:3 +count +cov +valid
 
 # Cycle 6 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 3 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
-Total 3672 branches covered
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Total 3805 branches covered
 
 
 
 
-Saving new input (at run 47088): input #43 of size 20; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000043 src:000042,havoc:3 +count +cov
+Saving new input (at run 76911): input #61 of size 16; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000061 src:000051,havoc:3 +count +cov +valid
 
 # Cycle 7 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 3 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Total 3673 branches covered
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Total 3808 branches covered
 
 
 
 
-Saving new input (at run 52772): input #44 of size 492; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000044 src:000028,havoc:8 +count
-Saving new input (at run 55289): input #45 of size 72; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000045 src:000043,havoc:11 +count +cov
-Saving new input (at run 55311): input #46 of size 20; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000046 src:000043,havoc:5 +count
-Saving new input (at run 55482): input #47 of size 12; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000047 src:000045,havoc:2 +count +cov +valid
-Saving new input (at run 56134): input #48 of size 60; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000048 src:000047,havoc:25 +count +cov
 
 # Cycle 8 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 1 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Total 3676 branches covered
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Total 3808 branches covered
 
 
 
 
-Saving new input (at run 64655): input #49 of size 32; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000049 src:000047,havoc:5 +count
-Saving new input (at run 64684): input #50 of size 12; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000050 src:000047,havoc:1 +count
+Saving new input (at run 106127): input #62 of size 88; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000062 src:000047,havoc:10 +count
 
 # Cycle 9 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 22 is responsible for 1 branches
-Input 23 is responsible for 2 branches
-Input 24 is responsible for 2 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Total 3676 branches covered
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Total 3808 branches covered
 
 
 
 
-Saving new input (at run 70296): input #51 of size 36; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000051 src:000027,havoc:18 +count +cov
-Saving new input (at run 72540): input #52 of size 20; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000052 src:000038,havoc:3 +count +cov
-Saving new input (at run 74089): input #53 of size 12; reason = +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000053 src:000047,havoc:2 +valid
-Saving new input (at run 75079): input #54 of size 16; reason = +count +cov
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000054 src:000053,havoc:1 +count +cov
-Saving new input (at run 75533): input #55 of size 16; reason = +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000055 src:000053,havoc:1 +valid
+Saving new input (at run 123077): input #63 of size 24; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000063 src:000050,havoc:1 +count +cov +valid
 
 # Cycle 10 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 23 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Total 3679 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Total 3810 branches covered
 
 
 
 
+Saving new input (at run 135072): input #64 of size 160; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000064 src:000036,havoc:6 +count
 
 # Cycle 11 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 23 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Total 3679 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Total 3810 branches covered
 
 
 
 
-Saving new input (at run 96438): input #56 of size 88; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000056 src:000049,havoc:12 +count
-Saving new input (at run 98792): input #57 of size 56; reason = +count
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000057 src:000056,havoc:11 +count
 
 # Cycle 12 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 23 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Total 3679 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Total 3810 branches covered
 
 
 
@@ -434,132 +544,294 @@ Total 3679 branches covered
 # Cycle 13 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 23 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Total 3679 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Total 3810 branches covered
 
 
 
 
+Saving new input (at run 190117): input #65 of size 12; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000065 src:000049,havoc:5 +count +cov +valid
+Saving new input (at run 197924): input #66 of size 28; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000066 src:000063,havoc:2 +count +cov +valid
 
 # Cycle 14 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 23 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Total 3679 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Input 65 is responsible for 1 branches
+Input 66 is responsible for 1 branches
+Total 3812 branches covered
 
 
 
 
-Saving new input (at run 131379): input #58 of size 16; reason = +count +cov +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000058 src:000055,havoc:1 +count +cov +valid
+Saving new input (at run 203198): input #67 of size 88; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000067 src:000028,havoc:7 +count
 
 # Cycle 15 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 23 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 2 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Input 58 is responsible for 34 branches
-Total 3713 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Input 65 is responsible for 1 branches
+Input 66 is responsible for 1 branches
+Total 3812 branches covered
 
 
 
 
-Saving new input (at run 140547): input #59 of size 16; reason = +valid
-Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000059 src:000047,havoc:1 +valid
+Saving new input (at run 233269): input #68 of size 16; reason = +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000068 src:000060,havoc:3 +valid
 
 # Cycle 16 completed.
 Here is a list of favored inputs:
 Input 0 is responsible for 157 branches
-Input 5 is responsible for 3 branches
-Input 10 is responsible for 2572 branches
-Input 12 is responsible for 890 branches
-Input 16 is responsible for 4 branches
-Input 18 is responsible for 1 branches
-Input 25 is responsible for 4 branches
-Input 26 is responsible for 1 branches
-Input 27 is responsible for 1 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 1 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
 Input 28 is responsible for 2 branches
-Input 29 is responsible for 2 branches
-Input 31 is responsible for 2 branches
-Input 32 is responsible for 1 branches
-Input 35 is responsible for 1 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
 Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
 Input 43 is responsible for 1 branches
-Input 47 is responsible for 4 branches
-Input 48 is responsible for 1 branches
-Input 51 is responsible for 1 branches
-Input 52 is responsible for 1 branches
-Input 53 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
 Input 54 is responsible for 1 branches
-Input 55 is responsible for 3 branches
-Input 58 is responsible for 34 branches
-Input 59 is responsible for 1 branches
-Total 3713 branches covered
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Input 65 is responsible for 1 branches
+Input 66 is responsible for 1 branches
+Input 68 is responsible for 1 branches
+Total 3812 branches covered
+
+
+
+
+
+# Cycle 17 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 157 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 1 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
+Input 28 is responsible for 2 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
+Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Input 65 is responsible for 1 branches
+Input 66 is responsible for 1 branches
+Input 68 is responsible for 1 branches
+Total 3812 branches covered
+
+
+
+
+Saving new input (at run 275043): input #69 of size 32; reason = +count +cov +valid
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000069 src:000066,havoc:1 +count +cov +valid
+
+# Cycle 18 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 157 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 1 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
+Input 28 is responsible for 2 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
+Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Input 65 is responsible for 1 branches
+Input 66 is responsible for 1 branches
+Input 68 is responsible for 1 branches
+Input 69 is responsible for 2 branches
+Total 3814 branches covered
+
+
+
+
+Saving new input (at run 296904): input #70 of size 440; reason = +count
+Saved - D:\School\CS182\Project\Code\GCC\target\fuzz-results\examples.CompilerTest\testWithString\corpus\id_000070 src:000069,havoc:21 +count
+
+# Cycle 19 completed.
+Here is a list of favored inputs:
+Input 0 is responsible for 157 branches
+Input 6 is responsible for 2572 branches
+Input 10 is responsible for 3 branches
+Input 16 is responsible for 1 branches
+Input 17 is responsible for 890 branches
+Input 18 is responsible for 4 branches
+Input 24 is responsible for 1 branches
+Input 25 is responsible for 1 branches
+Input 28 is responsible for 2 branches
+Input 30 is responsible for 1 branches
+Input 35 is responsible for 2 branches
+Input 36 is responsible for 1 branches
+Input 38 is responsible for 24 branches
+Input 39 is responsible for 4 branches
+Input 41 is responsible for 1 branches
+Input 42 is responsible for 1 branches
+Input 43 is responsible for 1 branches
+Input 44 is responsible for 1 branches
+Input 45 is responsible for 4 branches
+Input 46 is responsible for 1 branches
+Input 49 is responsible for 2 branches
+Input 50 is responsible for 2 branches
+Input 51 is responsible for 3 branches
+Input 53 is responsible for 72 branches
+Input 54 is responsible for 1 branches
+Input 57 is responsible for 39 branches
+Input 58 is responsible for 10 branches
+Input 60 is responsible for 3 branches
+Input 61 is responsible for 3 branches
+Input 63 is responsible for 2 branches
+Input 65 is responsible for 1 branches
+Input 66 is responsible for 1 branches
+Input 68 is responsible for 1 branches
+Input 69 is responsible for 2 branches
+Total 3814 branches covered
 
 
 
