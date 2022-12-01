@@ -1,6 +1,6 @@
 Apache Maven and Java 9+ required to run the fuzzer
 
-Clone the repository and move to the test location in the terminal.
+Clone the repository and move to the test location (src/test/java/examples) in the terminal.
 
 Run command: mvn test-compile and mvn jqf:fuzz -Dclass=examples.CompilerTest -Dmethod=[test_name] -Dtime=[time of fuzzing]
 
