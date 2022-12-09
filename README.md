@@ -9,3 +9,5 @@ Results will show in the terminal after the fuzzing has terminated.
 Fuzz data located in the fuzzlog in target/fuzz-results/examples.CompilerTest/(test_name)/fuzz.log
 
 Additionally, raw data is located in target/fuzz-results/examples.CompilerTest/(test_name)/plot_data
+
+We also uploaded a folder containing more easily acessable raw data
